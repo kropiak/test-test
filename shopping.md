@@ -1,4 +1,4 @@
 My shopping list 
 "- apples" 
 ## Drinks
-- coconut water 3
+- coconut water 2
